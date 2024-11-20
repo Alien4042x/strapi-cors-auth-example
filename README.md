@@ -95,6 +95,7 @@ To use the Auth middleware, you need to install the following package:
 
 ```bash
 npm install @koa/cors --save
+```
 
 ## Middleware Configuration
 
